@@ -7,3 +7,4 @@ folium
 streamlit-folium
 geopy
 rich
+# gpmf-parser   # voeg toe als deze via pip voor jouw platform werkt
